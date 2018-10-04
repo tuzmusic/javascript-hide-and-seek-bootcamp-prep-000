@@ -1,4 +1,5 @@
 function getFirstSelector(selector) {
+  console.log("hi there");
   return document.querySelector(selector)
   // returns the first matching element
 }
